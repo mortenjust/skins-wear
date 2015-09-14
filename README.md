@@ -20,3 +20,5 @@ Example path:
 # More tips
 * Change your mouse pointer with <a href="https://github.com/alexzielenski/Mousecape">Mousecape</a>
 * Record directly to animated gifs with <a href="http://www.cockos.com/licecap/">LiceCAP</a>
+
+<img width="300" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/skindemo.gif">
