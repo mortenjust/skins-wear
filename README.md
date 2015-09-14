@@ -5,11 +5,11 @@ Better looking emulator skins for your Wear demos and presentations
 
 # Examples
 
-<img width="200" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/white.png">
-<img width="200" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/white-reflection.png">
-<img width="200" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/white-soft-reflection.png">
-<img width="200" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/gray.png">
-<img width="200" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/dark-gray.png">
+<img width="300" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/white.png">
+<img width="300" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/white-reflection.png">
+<img width="300" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/white-soft-reflection.png">
+<img width="300" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/gray.png">
+<img width="300" src="https://raw.githubusercontent.com/mortenjust/skins-wear/master/AndroidWearMoto360Images/dark-gray.png">
 
 # Install
 Download or clone, put the files where your emulator finds its skins. If you use Android Studio, a restart is necessary .
