@@ -1,0 +1,91 @@
+parts {
+    portrait {
+        background {
+            image   device_bezel.png
+        }
+    }
+
+    device {
+        display {
+            width   320
+            height  320
+            x       0
+            y       0
+        }
+    }
+    
+    palm_controls {
+        background {
+            image   palm_controls.png
+        }
+        buttons {
+            home {
+                    image palm_button.png
+                    x 1
+                    y 1
+            }
+        }
+    }
+    
+    controls {
+        background {
+         
+        }
+        buttons {
+            power {
+                    image button.png
+                    x 1
+                    y 1
+            }
+        }
+    }
+}
+
+layouts {
+    portrait {
+        width     380
+        height    528
+        color     0xffffff
+        event     EV_SW:0:1
+
+        onion {
+            image     device_screen_mask.png
+            alpha     100
+            rotation  0
+
+        }
+
+        part1 {
+            name    portrait
+            x       0
+            y       0
+        }
+
+        part2 {
+            name    device
+            x       28
+            y       103
+        }
+
+        part3 {
+            name     palm_controls
+            x        0
+            y        0
+        }
+
+        part4 {
+            name     controls
+            x        331
+            y        141
+        }
+    }
+}
+
+keyboard {
+    charmap qwerty2
+}
+
+network {
+    speed  full
+    delay  none
+}
